@@ -17,7 +17,6 @@ Le site est disponible ici : [voir mon portfolio](https://tonyzetoile.github.io/
 ## Contenu du portfolio
 
 Vous y trouverez :
-
 * mes projets de programmation
 * mes compétences actuelles en terme de langages de programmation
 * Ce portfolio est encore en développement, de nouvelles choses y seront probablement ajoutées...
