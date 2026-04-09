@@ -3,7 +3,7 @@
 Bienvenue sur mon portfolio !  
 **Je précise qu'il est en Work In Progress, il manque encore des choses et des bugs sont possibles, surtout sur téléphone !**
 
-Je suis un lycéen passionné par l'informatique, notamment la programmation en Python et le développement web.
+Je suis un **lycéen passionné par l'informatique**, notamment la **programmation en Python et le développement web**.
 Ce site présente quelques projets personnels depuis la Quatrième, ainsi que les langages que je sais utiliser.
 
 ---
@@ -18,9 +18,9 @@ Le site est disponible ici : [voir mon portfolio](https://tonyzetoile.github.io/
 ## Contenu du portfolio
 
 Vous y trouverez :
-* mes projets de programmation
-* mes compétences actuelles en terme de langages de programmation
-* Ce portfolio est encore en développement, de nouvelles choses y seront probablement ajoutées...
+* mes **projets** de programmation
+* mes **compétences** actuelles en terme de langages de programmation
+* Ce portfolio est encore en développement, de nouvelles choses y seront ajoutées...
 
 ---
 
