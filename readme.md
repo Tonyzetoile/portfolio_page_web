@@ -1,6 +1,6 @@
 # Portfolio de programmation
 
-Bienvenue sur mon portfolio !
+Bienvenue sur mon portfolio !  
 **Je précise qu'il est en Work In Progress, il manque encore des choses et des bugs sont possibles, surtout sur téléphone !**
 
 Je suis un lycéen passionné par l'informatique, notamment la programmation en Python et le développement web.
@@ -11,7 +11,7 @@ Ce site présente quelques projets personnels depuis la Quatrième, ainsi que le
 ## Accéder au portfolio
 
 Le site est disponible ici : [voir mon portfolio](https://tonyzetoile.github.io/portfolio_page_web/)
-* J'ai aussi réalisé un curriculum vitae (ou CV) accessible depuis le portfolio !
+* J'ai aussi réalisé un **curriculum vitae** (ou CV) accessible depuis le portfolio !
 
 ---
 
