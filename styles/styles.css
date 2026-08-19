@@ -11,7 +11,7 @@ body{
 
 .slider{
     width:100%;
-    min-height:80vh;
+    /*min-height:80vh; */
     aspect-ratio:16/9;
     background:#000;
     position:relative;
