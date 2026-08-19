@@ -1,4 +1,4 @@
-# Portfolio de programmation
+# Portfolio de programmation - WIP
 
 Bienvenue sur mon portfolio !  
 **Je précise qu'il est en Work In Progress, il manque encore des choses et des bugs sont possibles, surtout sur téléphone !**
