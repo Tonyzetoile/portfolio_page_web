@@ -3,7 +3,7 @@
 Bienvenue sur mon portfolio !  
 **Je précise qu'il est en Work In Progress, il manque encore des choses et des bugs sont possibles, surtout sur téléphone !**
 
-Je suis un **ancien lycéen passionné par l'informatique**, notamment la **programmation en Python et le développement web**.
+Je suis un **étudiant passionné par l'informatique**, notamment la **programmation en Python et le développement web**.
 Ce site présente quelques projets personnels depuis la Quatrième, ainsi que les langages que je sais utiliser.
 
 ---
